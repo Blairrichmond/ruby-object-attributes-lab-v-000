@@ -15,3 +15,7 @@ class Dog
     @the_breed
   end
 end
+
+Qaz = Dog.new
+Qaz.name = "Qaz"
+Qaz.breed = "German Shepard"
