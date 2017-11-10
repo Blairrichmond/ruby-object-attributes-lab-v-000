@@ -15,3 +15,9 @@ class Dog
     @the_breed
   end
 end
+
+Fido = Dog.new
+Fido.name = "Fido"
+
+snoopy = Dog.new
+snoopy.breed = "snoopy"
