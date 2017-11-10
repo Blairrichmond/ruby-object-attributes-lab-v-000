@@ -16,6 +16,3 @@ class Dog
   end
 end
 
-Qaz = Dog.new
-Qaz.name = "Qaz"
-Qaz.breed = "German Shepard"
